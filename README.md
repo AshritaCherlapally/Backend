@@ -35,8 +35,6 @@
 # Installation
 - To run this project locally, follow these steps:
 
-# Clone the repository:
-
 - git clone https://github.com/AshritaCherlapally/FoodOrderingApp.git
 - cd FoodOrderingApp
 - npm install
