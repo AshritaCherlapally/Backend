@@ -37,21 +37,18 @@
 
 # Clone the repository:
 
-- bash
 - git clone https://github.com/AshritaCherlapally/FoodOrderingApp.git
 
 # Navigate to the project directory:
 
-- bash
 - cd FoodOrderingApp
 
 # Install the dependencies:
 
-- bash
 - npm install
-- Start the application:
+  
+# Start the application:
 
-- bash
 - npm start
 
 # Usage
