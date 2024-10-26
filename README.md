@@ -3,6 +3,14 @@
 # Description
 - This is an Online Food Delivery App built using React, Redux, and Tailwind CSS. The application dynamically fetches data from Swiggy's API, providing users with a seamless experience to browse and order food online.
 
+# HomePage:
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/04409669-a048-4339-8e81-ce801b7cc3ed">
+
+# Specific Restaurant Page:
+
+
+
 # Features
 - Dynamic Restaurant Listings: The home page displays all restaurants in a specified location.
 - Restaurant Detail Page: Clicking on a restaurant redirects to its dedicated page, showcasing all available categories.
