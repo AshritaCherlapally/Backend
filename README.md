@@ -1,4 +1,4 @@
-# Online Food Delivery App
+# Food Ordering App
 
 # Description
 - This is an Online Food Delivery App built using React, Redux, and Tailwind CSS. The application dynamically fetches data from Swiggy's API, providing users with a seamless experience to browse and order food online.
