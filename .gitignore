@@ -1,0 +1,9 @@
+/node_modules
+/utils.js
+/mockData.js
+/constants.js
+/coverage
+/mockData
+/.parcel-cache
+/dist
+

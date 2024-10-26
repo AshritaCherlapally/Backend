@@ -1,0 +1,83 @@
+{
+  "info": {
+    "id": "794402",
+    "name": "Kwality Walls Ice Cream and More",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/d69f8ada-159b-4e33-a2ae-66767e2ac43f_794402.JPG",
+    "locality": "Chirag Ali Lane",
+    "areaName": "Banjara Hills",
+    "costForTwo": "₹200 for two",
+    "cuisines": ["Ice Cream", "Desserts"],
+    "avgRating": 4.5,
+    "veg": true,
+    "parentId": "582",
+    "avgRatingString": "4.5",
+    "totalRatingsString": "154",
+    "promoted": true,
+    "adTrackingId": "cid=20454857~p=1~adgrpid=20454857#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=794402~eid=2dc344bc-9bb9-4cda-91dc-19b974d3735e~srvts=1729970189113~collid=45826",
+    "sla": {
+      "deliveryTime": 23,
+      "lastMileTravel": 2.3,
+      "serviceability": "SERVICEABLE",
+      "slaString": "20-25 mins",
+      "lastMileTravelString": "2.3 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-10-27 03:00:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "v1695133679/badges/Pure_Veg111.png",
+          "description": "pureveg"
+        }
+      ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "textExtendedBadges": {},
+        "textBased": {},
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                "description": "pureveg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "50% OFF",
+      "subHeader": "UPTO ₹100"
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "--"
+      }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+    "campaignId": "20454857"
+  },
+  "analytics": {},
+  "cta": {
+    "link": "swiggy://menu?restaurant_id=794402",
+    "text": "RESTAURANT_MENU",
+    "type": "DEEPLINK"
+  }
+}
