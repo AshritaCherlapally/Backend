@@ -27,7 +27,7 @@
 - Integration Testing: Ensured that components work together as expected.
 - End-to-End Testing: Comprehensive testing of the entire application flow.
 
-#Technologies Used
+# Technologies Used
 - Frontend: React, Redux, Tailwind CSS
 - Testing: Jest
 - API: Swiggy's API for dynamic data fetching
